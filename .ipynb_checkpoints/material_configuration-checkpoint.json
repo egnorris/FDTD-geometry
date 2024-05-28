@@ -1,0 +1,8 @@
+[
+    { 
+    "material": "gold",
+    "thickness" : "30",
+    "y-placement": 150,
+    "image-path":"tom.png"
+}
+]

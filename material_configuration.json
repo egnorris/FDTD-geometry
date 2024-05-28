@@ -1,12 +1,14 @@
 [
     { 
     "material": "gold",
-    "thickness" : "30",
-    "y-placement": 166.5,
-    "image-path":"meta-atom-gold-layer.png"
-},
-{ 
-    "material": "chromium",
-    "image-path":"meta-atom-chromium-layer.png"
-}
+    "thickness" : "25",
+    "y-placement": 328,
+    "image-path":"170x160_2nmres_equal_boundary.png"
+    },
+    { 
+        "material": "chromium",
+        "thickness" : "3",
+        "y-placement": 303,
+        "image-path":"170x160_2nmres_equal_boundary.png"
+        }
 ]

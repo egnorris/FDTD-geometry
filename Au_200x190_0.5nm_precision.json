@@ -1,0 +1,5191 @@
+[{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 60.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.0,315,697.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 60.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.0,315,697.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 85.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,698.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 105.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,699.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 120.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.0,315,700.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 130.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.0,315,701.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 145.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,702.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 155.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,703.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 165.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,704.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 175.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,705.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 185.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,706.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 195.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,707.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 205.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,708.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 215.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,709.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 225.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,710.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 235.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,711.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 45.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,711.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 245.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,712.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 75.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,712.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 255.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,713.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 95.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,713.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 265.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,714.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 115.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,714.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 275.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,715.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 125.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,715.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 285.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,716.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 135.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,716.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 295.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,717.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 145.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,717.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 305.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,718.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 155.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,718.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 315.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,719.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 165.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,719.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 325.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,720.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 175.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,720.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 335.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,721.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 185.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,721.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 345.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,722.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 195.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,722.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 355.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,723.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 205.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,723.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 365.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,724.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 215.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,724.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 375.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,725.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 225.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,725.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 385.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,726.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 235.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,726.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 395.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,727.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 245.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,727.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 405.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,728.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 255.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,728.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 415.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,729.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 265.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,729.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 425.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,730.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 275.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,730.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 435.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,731.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 285.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,731.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 445.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,732.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 295.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,732.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 455.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,733.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 305.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,733.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 465.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,734.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 315.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,734.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 475.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,735.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 325.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,735.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 485.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,736.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 335.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,736.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 495.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,737.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 345.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,737.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 505.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,738.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 355.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,738.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 515.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,739.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 365.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,739.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 525.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,740.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 375.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,740.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 535.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,741.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 385.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,741.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 545.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,742.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 395.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,742.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 555.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,743.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 405.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,743.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 565.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,744.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 415.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,744.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 575.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,745.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 425.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,745.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 585.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,746.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 435.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,746.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 595.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,747.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 445.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,747.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 605.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,748.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 455.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,748.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 615.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,749.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 465.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,749.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 625.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,750.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 475.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,750.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 635.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,751.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 485.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,751.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 645.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,752.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 495.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,752.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,753.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 505.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,753.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 665.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,754.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 515.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,754.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 675.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,755.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 525.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,755.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 685.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,756.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 535.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,756.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 695.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,757.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 545.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,757.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 705.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,758.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 555.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,758.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 715.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,759.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 565.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,759.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 725.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,760.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 575.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,760.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 735.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,761.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 585.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,761.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 745.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,762.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 595.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,762.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 755.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,763.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 605.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,763.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 765.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,764.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 615.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,764.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 775.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,765.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 625.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,765.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 785.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,766.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 635.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,766.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 795.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,767.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 645.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,767.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 805.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,768.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,768.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 815.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,769.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 665.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,769.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 825.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,770.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 675.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,770.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 835.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,771.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 685.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,771.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 845.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,772.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 695.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,772.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 855.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,773.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 705.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,773.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 865.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,774.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 715.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,774.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 875.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,775.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 725.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,775.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 885.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,776.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 735.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,776.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 895.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,777.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 745.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,777.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 905.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,778.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 755.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,778.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 915.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,779.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 765.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,779.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 925.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,780.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 775.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,780.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 935.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,781.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 785.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,781.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 945.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,782.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 795.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,782.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 955.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,783.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 805.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,783.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 965.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,784.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 815.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,784.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 975.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,785.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 825.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,785.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 985.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,786.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 835.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,786.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 995.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,787.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 845.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,787.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1005.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,788.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 855.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,788.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1015.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,789.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 865.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,789.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1025.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,790.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 875.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,790.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1035.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,791.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 885.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,791.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1045.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,792.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 895.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,792.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1055.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,793.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 905.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,793.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1065.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,794.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 915.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,794.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1075.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,795.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 925.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,795.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1085.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,796.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 935.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,796.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1095.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,797.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 945.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,797.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1105.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,798.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 955.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,798.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1115.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,799.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 965.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,799.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1125.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,800.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 975.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,800.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1135.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,801.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 985.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,801.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1145.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,802.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 995.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,802.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1155.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,803.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1005.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,803.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1165.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,804.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1015.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,804.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1175.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,805.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1025.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,805.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1185.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,806.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1035.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,806.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1195.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,807.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1045.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,807.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1205.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,808.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1055.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,808.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1215.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,809.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1065.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,809.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1225.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,810.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1075.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,810.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1235.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,811.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1085.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,811.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1245.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,812.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1095.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,812.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1255.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,813.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1105.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,813.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1265.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,814.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1115.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,814.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1275.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,815.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1125.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,815.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1285.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,816.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1135.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.5,315,816.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1295.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [316.5,315,817.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1150.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.0,315,817.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1305.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [317.5,315,818.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1160.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [584.0,315,818.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1315.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [317.5,315,819.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1175.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [583.5,315,819.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1335.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [318.5,315,820.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1195.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [582.5,315,820.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2590.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [444.0,315,821.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2595.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [444.5,315,822.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2605.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [444.5,315,823.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2610.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [445.0,315,824.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2615.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [445.5,315,825.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2625.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [445.5,315,826.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2630.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [446.0,315,827.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2635.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [446.5,315,828.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2640.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [447.0,315,829.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2645.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [447.5,315,830.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2650.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [448.0,315,831.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [448.5,315,832.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [449.0,315,833.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [449.5,315,834.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [450.0,315,835.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [450.0,315,836.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2665.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [450.5,315,837.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [451.0,315,838.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [451.0,315,839.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [451.5,315,840.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [452.0,315,841.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [452.5,315,842.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2650.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [453.0,315,843.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2645.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [453.5,315,844.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2640.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [454.0,315,845.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2635.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [454.5,315,846.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2630.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [455.0,315,847.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2620.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [455.0,315,848.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2615.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [455.5,315,849.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2610.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [456.0,315,850.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2605.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [456.5,315,851.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2595.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [456.5,315,852.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2590.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.0,315,853.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2580.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.0,315,854.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2575.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,855.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2565.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,856.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2555.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,857.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2550.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,858.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2540.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,859.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2530.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,860.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2520.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,861.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2510.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,862.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2500.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,863.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2490.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,864.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2480.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,865.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2470.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,866.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2460.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,867.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2450.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,868.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2440.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,869.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2430.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,870.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2420.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,871.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2410.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,872.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2400.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,873.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2390.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,874.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2380.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,875.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2370.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,876.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2360.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,877.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2350.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,878.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2340.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,879.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2330.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,880.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2320.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,881.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2310.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,882.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2300.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,883.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2290.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,884.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2280.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,885.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2270.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,886.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2260.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,887.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2250.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,888.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2240.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,889.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2230.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,890.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2220.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,891.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2210.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,892.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2200.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,893.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2190.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,894.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2180.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,895.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2170.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,896.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2160.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,897.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2150.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,898.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2140.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,899.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2130.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,900.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2120.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,901.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2110.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,902.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2100.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,903.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2090.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,904.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2080.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,905.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2070.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,906.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2060.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,907.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2050.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,908.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2040.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,909.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2030.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,910.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2020.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,911.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2010.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,912.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 2000.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,913.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1990.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,914.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1980.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,915.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1970.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,916.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1960.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,917.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1950.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,918.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1940.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,919.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1930.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,920.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1920.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,921.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1910.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,922.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1900.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,923.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1890.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,924.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1880.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,925.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1870.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,926.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1860.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,927.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1850.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,928.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1840.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,929.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1830.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,930.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1820.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,931.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1810.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,932.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1800.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,933.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1790.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,934.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1780.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,935.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1770.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,936.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1760.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,937.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1750.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,938.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1740.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,939.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1730.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,940.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1720.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,941.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1710.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,942.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1700.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,943.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1690.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,944.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1680.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,945.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1670.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,946.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1660.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,947.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1650.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,948.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1640.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,949.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1630.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,950.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1620.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,951.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1610.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,952.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1600.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,953.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1590.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,954.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1580.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,955.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1570.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,956.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1560.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,957.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1550.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,958.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1540.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,959.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1530.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,960.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1520.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,961.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1510.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,962.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1500.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,963.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1490.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,964.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1480.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,965.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1470.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,966.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1460.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,967.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1450.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,968.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1440.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,969.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1430.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,970.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1420.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,971.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1410.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,972.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1400.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,973.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1390.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,974.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1380.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,975.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1370.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,976.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1360.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,977.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1350.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,978.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1340.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,979.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1330.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,980.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1320.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,981.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1310.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,982.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1300.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [458.0,315,983.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1295.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,984.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1285.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,985.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1275.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,986.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1265.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,987.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1255.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,988.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1245.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,989.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1235.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,990.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1225.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,991.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1215.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,992.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1205.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,993.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1195.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,994.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1185.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,995.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1175.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,996.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1165.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,997.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1155.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,998.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1145.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,999.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1135.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1000.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1125.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1001.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1115.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1002.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1105.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1003.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1095.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1004.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1085.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1005.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1075.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1006.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1065.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1007.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1055.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1008.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1045.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1009.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1035.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1010.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1025.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1011.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1015.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1012.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 1005.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1013.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 995.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1014.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 985.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1015.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 975.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1016.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 965.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1017.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 955.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1018.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 945.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1019.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 935.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1020.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 925.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1021.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 915.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1022.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 905.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1023.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 895.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1024.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 885.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1025.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 875.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1026.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 865.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1027.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 855.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1028.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 845.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1029.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 835.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1030.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 825.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1031.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 815.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1032.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 805.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1033.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 795.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1034.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 785.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1035.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 775.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1036.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 765.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1037.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 755.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1038.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 745.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1039.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 735.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1040.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 725.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1041.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 715.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1042.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 705.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1043.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 695.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1044.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 685.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1045.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 675.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1046.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 665.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1047.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 655.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1048.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 645.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1049.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 635.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1050.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 625.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1051.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 615.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1052.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 605.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1053.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 595.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1054.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 585.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1055.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 575.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1056.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 565.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1057.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 555.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1058.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 545.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1059.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 535.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1060.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 525.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1061.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 515.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1062.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 505.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1063.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 495.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1064.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 485.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1065.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 475.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1066.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 465.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1067.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 455.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1068.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 445.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1069.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 435.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1070.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 425.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1071.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 415.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1072.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 405.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1073.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 395.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1074.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 385.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1075.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 375.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1076.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 365.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1077.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 355.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1078.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 345.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1079.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 335.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1080.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 325.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1081.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 315.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1082.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 305.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1083.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 295.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1084.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 285.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1085.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 275.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1086.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 265.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1087.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 255.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1088.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 245.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1089.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 235.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1090.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 225.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1091.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 215.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1092.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 205.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1093.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 195.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1094.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 185.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1095.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 175.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1096.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 165.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1097.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 155.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1098.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 145.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1099.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 135.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1100.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 115.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1101.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 105.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1102.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 85.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.5,315,1103.0] 
+},
+{
+
+                         "shape": "Rectangle",
+                         "radius": 5e-10,
+                         "length": 5e-10,
+                         "width": 60.0e-9,
+                         "thickness": 30e-10,
+                         "material": "gold",
+                         "position": [457.0,315,1104.0] 
+}
+]
